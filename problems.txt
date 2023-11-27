@@ -1,0 +1,16 @@
+2.1 convert miles/h to m/s
+2.3 volume of a cube
+2.3 convert feet into meters
+2.4 convert onces into grams
+2.5 calculate the area and circumference of a circle
+2.5 find the number of years and days
+2.5 calculate potential energy
+2.6 find acceleration
+2.7 convert gallons to liters
+2.8 calculate the perimeter of a rectangle
+2.9 area of triangle
+area of an octagon
+acceleration
+find bmi by weight and height
+find slope of a line by x cordinate
+find kinetic energy by mass and velocity
