@@ -4,4 +4,4 @@ import turtle
 
 
 turtle.showturtle()
-#turtle .goto(0,50)
+turtle .goto(0,50)
